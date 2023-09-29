@@ -6,11 +6,7 @@ A user-friendly survey form created using HTML5 and CSS3 for collecting valuable
 
 - [About](#about)
 - [Features](#features)
-- [Demo](#demo)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
